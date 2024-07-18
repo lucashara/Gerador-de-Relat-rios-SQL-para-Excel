@@ -1,0 +1,5 @@
+__pycache__/config_bd.cpython-312.pyc
+/resultado
+*.log
+.env
+/sql
